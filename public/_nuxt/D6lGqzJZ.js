@@ -1,0 +1,1 @@
+import{az as r,aA as t,aB as i}from"./CmAaC7-r.js";const m=r((a,o)=>{var e,s;if(!((s=(e=t().value)==null?void 0:e.permissions)!=null&&s[a.meta.permission]))return i("/unauthorized",{replace:!0})});export{m as default};
